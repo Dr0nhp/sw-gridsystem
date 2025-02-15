@@ -1,6 +1,6 @@
 {
-  "name": "swag/theme-skeleton",
-  "description": "Theme skeleton plugin",
+  "name": "dr0nhp/themedemo",
+  "description": "Theme Demo",
   "type": "shopware-platform-plugin",
   "license": "MIT",
   "autoload": {
